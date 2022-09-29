@@ -1,0 +1,170 @@
+body {
+    background: rgb(35, 35, 72);
+}
+
+
+
+.btns {
+    padding-top: 80px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 200px;
+}
+
+.btn {
+    padding: 10px 30px;
+    background: red;
+    color: white;
+    border: 2px solid green; 
+    border-radius: 8px;
+    transition: .4s;
+}
+
+.btn:hover {
+    background: transparent;
+    color: black;
+    border: 2px solid rgb(37, 227, 139);
+    transform: scaleY(1.3);
+}
+.btn2 {
+    padding: 10px 30px;
+    background: red;
+    color: white;
+    border: 2px solid green; 
+    border-radius: 8px;
+    transition: .4s;
+}
+.btn2:active {
+    background: transparent;
+    color: black;
+    border: 2px solid rgb(37, 227, 139);
+    transform: scale(1.1);
+}
+.btn3 {
+    padding: 10px 30px;
+    background: red;
+    color: white;
+    border: 2px solid green; 
+    border-radius: 8px;
+    transition: .4s;
+}
+.btn3:focus {
+    background: transparent;
+    color: black;
+    border: 2px solid rgb(37, 227, 139);
+    transform: scale(1.1);
+}
+.icons i {
+    font-size: 50px;
+    
+}
+.icons {
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.icons a {
+    color: rgb(136, 250, 101);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .btn {
+    padding: 12px 30px;
+    background: linear-gradient(red, green);
+    color: white;
+    border-radius: 10px;
+    border: 2px solid blue;
+    transition: .4s;
+}
+.btn:hover {
+    background: transparent;
+    color: deeppink;
+    cursor: pointer;
+    transform: scale(1.1);
+
+}
+.btn2 {
+    padding: 12px 30px;
+    background: linear-gradient(red, green);
+    color: white;
+    border-radius: 10px;
+    border: 2px solid blue;
+    transition: .4s;
+}
+.btn2:active {
+    background: transparent;
+    color: deeppink;
+    cursor: pointer;
+    transform: scale(1.1);
+
+}
+.btn3 {
+    padding: 12px 30px;
+    background: linear-gradient(red, green);
+    color: white;
+    border-radius: 10px;
+    border: 2px solid blue;
+    transition: .4s;
+}
+.btn3:focus {
+    background: transparent;
+    color: deeppink;
+    cursor: pointer;
+    transform: scale(1.1);
+} */
